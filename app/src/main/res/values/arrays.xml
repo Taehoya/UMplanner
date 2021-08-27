@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Department">
+        <item> All (Department) </item>
+        <item> Computer Science </item>
+        <item> Mathematics </item>
+        <item> Statistics </item>
+    </string-array>
+    
+    <string-array name="term">
+        <item> All (Term) </item>
+        <item> Fall</item>
+        <item> Winter</item>
+        <item> Summer</item>
+    </string-array>
+
+    <string-array name="activity">
+        <item> Courses </item>
+        <item> Plan </item>
+    </string-array>
+
+    <string-array name="term_plan">
+        <item>Fall</item>
+        <item>Winter</item>
+        <item>Summer</item>
+    </string-array>
+
+    <string-array name="previous_year">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+    </string-array>
+
+    <string-array name="current_year">
+        <item> Winter 2021</item>
+    </string-array>
+
+    <string-array name="future_year">
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+    </string-array>
+</resources>

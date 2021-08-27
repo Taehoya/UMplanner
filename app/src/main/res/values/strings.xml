@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UMplanner</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="ApplicationName">UMplanner</string>
+    <string name="courses">Courses</string>
+    <string name="plan">Plan</string>
+    <string name="schedule">Schedule</string>
+    <string name="plan_list">Plan(list)</string>
+    <string name="remove">remove</string>
+    <string name="edit">edit</string>
+    <string name="finalize">Finalize</string>
+    <string name="term">Term</string>
+    <string name="year">Year</string>
+    <string name="start">Start</string>
+    <string name="myPlan">My Plan</string>
+    <string name="current">Current</string>
+    <string name="completed">Completed</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="managePlan">Manage Plan</string>
+    <string name="title">Title</string>
+</resources>
