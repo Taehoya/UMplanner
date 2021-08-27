@@ -4,9 +4,6 @@
 ## Authors of the Project
 - Choi, Taeho (7876239)
 - Singh, Harbir (7859989)
-- Vyas, Ronak (7833618)
-- Patel, Ayush Dilipkumar (7871034)
-
 
 ## Vision Statement
 
